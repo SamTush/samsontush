@@ -8,10 +8,22 @@ function Navbar() {
         </div>
         <div className='h-full flex justify-center py-4'>
             <ul className='flex flex-col gap-3 w-5/6'>
-                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>Github</li>
-                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>LinkedIn</li>
-                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>Pinterest</li>
-                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>CV</li>
+                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
+                    <i class="fa-brands fa-github me-2"></i>
+                    Github
+                </li>
+                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
+                    <i class="fa-brands fa-linkedin me-2"></i>
+                    LinkedIn
+                </li>
+                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
+                    <i class="fa-brands fa-square-pinterest me-2"></i>
+                    Pinterest
+                </li>
+                <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
+                    <i class="fa-regular fa-file me-2"></i>
+                    CV
+                </li>
             </ul>
         </div>
         <div className='h-1/5 flex justify-center items-center gap-3'>
