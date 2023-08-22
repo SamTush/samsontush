@@ -12,6 +12,7 @@ function MainSection() {
         <div className=' bg-myRed lg:h-4/5 md:h-fit rounded-lg text-myWhite py-4 px-4 shadow-md'>
             <p className='font-bold tracking-wide'>
               A versatile and dedicated Full Stack Developer proficient in a wide spectrum of front-end and back-end technologies.
+              react
             </p>
         </div>
 
