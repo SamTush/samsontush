@@ -6,8 +6,26 @@ function Navbar() {
         <div className='h-1/6 flex justify-center items-center'>
           <img className='lg:h-3/6 xl:h-3/6 2xl:h-3/6 md:h-20 md:mt-8 h-20 mt-8 ' src="./assets/logo-black.png" alt="Samson Tush"  />
         </div>
-        <div className='h-full md:mt-4 lg:mt-0 mt-4 flex justify-center py-4'>
+        <div className='h-full md:mt-4 lg:mt-0 mt-4 flex flex-col items-center justify-between py-4'>
             <ul className='flex flex-col gap-3 w-5/6'>
+                <a href="https://github.com/SamTush">
+                  <li className='bg-myBlue py-2 px-3 w-full text-myWhite flex justify-center rounded-lg'>
+                      About
+                  </li>
+                </a>
+                <a href="https://www.linkedin.com/in/samson-tush/">
+                  <li className='bg-myBlue py-2 px-3 w-full flex justify-center text-myWhite rounded-lg'>
+                      Projects
+                  </li>
+                </a>
+                <a href="https://www.pinterest.com/samsonTm/">
+                  <li className='bg-myBlue py-2 flex justify-center px-3 w-full text-myWhite rounded-lg'>
+                      Contact
+                  </li>
+                </a>
+            </ul>
+
+            <ul className='hidden md:flex md:justify-center md:mt-3 lg:flex lg:flex-col gap-3 w-5/6'>
                 <a href="https://github.com/SamTush">
                   <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
                       <i class="fa-brands fa-github me-2"></i>
@@ -29,7 +47,7 @@ function Navbar() {
                 <a href="https://docs.google.com/document/d/1Y6HJlIk-SUfHnnRnnJCeJ-Vt1D1N6DKKYapcF5GPBlA/edit?usp=sharing">
                   <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
                       <i class="fa-regular fa-file me-2"></i>
-                      CV
+                      Resume
                   </li>
                 </a>
             </ul>
