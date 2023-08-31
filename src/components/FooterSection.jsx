@@ -15,6 +15,7 @@ function FooterSection() {
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samtush&show_icons=true&hide_border=true&title_color=ffffff&icon_color=fb8c00&text_color=939393&bg_color=000000" alt="" srcset="" />
           </div> */}
         </div>
+        <div className='flex justify-center'>tech stack & tools</div>
         <div class="grid h-1/2 grid-rows-4 md:mt-8 lg:mt-0 grid-flow-col gap-4 p-5 shadow-md ">
           <div className='flex justify-center'>
             <img src="https://skillicons.dev/icons?i=html" alt='' />
