@@ -26,7 +26,7 @@ function Navbar() {
                       Pinterest
                   </li>
                 </a>
-                <a href="https://docs.google.com/document/d/16H0NPBG05Mb2wzL6QXvu-5SK76VG9k-hS8L0_dqQX1E/edit?usp=sharing">
+                <a href="https://docs.google.com/document/d/1Y6HJlIk-SUfHnnRnnJCeJ-Vt1D1N6DKKYapcF5GPBlA/edit?usp=sharing">
                   <li className='bg-myBlue py-2 px-3 w-full text-myWhite rounded-lg'>
                       <i class="fa-regular fa-file me-2"></i>
                       CV

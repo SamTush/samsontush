@@ -11,7 +11,7 @@ function MainSection() {
 
         <div className=' bg-myRed lg:h-4/5 md:h-fit rounded-lg text-myWhite py-4 px-4 shadow-md'>
             <p className='font-bold tracking-wide'>
-              Hi! I'm a full stack web developer with a flair for collaborative pair programming and a proven track record in remote work. Proficient in Git, GitHub, GitFlow, test-driven programming, React, JavaScript, Ruby on Rails, and PostgreSQL, I bring holistic expertise to every project. My dedication to code quality, passion for crafting engaging user experiences, and adept mentoring of over 10 junior developers define my commitment to innovation and growth. Let's collaborate to transform your ideas into impactful digital realities.
+              I'm a full stack web developer with a flair for collaborative pair programming and a proven track record in remote work. Proficient in Git, GitHub, GitFlow, test-driven programming, React, JavaScript, Ruby on Rails, and PostgreSQL, I bring holistic expertise to every project. My dedication to code quality, passion for crafting engaging user experiences, and adept mentoring of over 10 junior developers define my commitment to innovation and growth. Let's collaborate to transform your ideas into impactful digital realities.
             </p>
         </div>
 
