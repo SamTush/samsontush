@@ -18,11 +18,11 @@ function Navbar() {
                       Projects
                   </li>
                 </a>
-                <a href="https://www.pinterest.com/samsonTm/">
+                {/* <a href="https://www.pinterest.com/samsonTm/">
                   <li className='bg-myBlue py-2 flex justify-center px-3 w-full text-myWhite rounded-lg'>
                       Contact
                   </li>
-                </a>
+                </a> */}
             </ul>
 
             <ul className='hidden md:flex md:justify-center md:mt-3 lg:flex lg:flex-col gap-3 w-5/6'>
